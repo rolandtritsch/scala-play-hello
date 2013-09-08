@@ -1,0 +1,2 @@
+GET / org.tritsch.scala.hello.controllers.App.index
+GET /name/:id  org.tritsch.scala.hello.controllers.App.name(id: String)
